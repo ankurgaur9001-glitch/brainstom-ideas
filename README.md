@@ -7,3 +7,12 @@ This repository contains a simple Next.js (TypeScript) site that outlines emergi
 Phases are in PHASES.md and the homepage includes a summary.
 
 License: MIT
+
+## Phase 0 work added
+Added research notes and persona drafts under /research. Next: run user interviews and validate hypotheses.
+
+To run locally:
+
+npm install
+npm run dev
+
